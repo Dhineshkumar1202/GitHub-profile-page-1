@@ -1,0 +1,33 @@
+body {
+    background-color: #dfe7df;
+}
+
+.profile-placeholder {
+    width: 100%;
+    height: 500px;
+    background-color: #343a40;
+    border-radius: 8px;
+}
+
+.search-bar input {
+    width: 100%;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid #343a40;
+    padding-left: 10px;
+}
+
+.repo-placeholder {
+    width: 100%;
+    height: 150px;
+    background-color: #343a40;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.activity-placeholder {
+    width: 100%;
+    height: 200px;
+    background-color: #343a40;
+    border-radius: 8px;
+}
